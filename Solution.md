@@ -193,3 +193,13 @@ wget --http-user="$user" --http-password="$password" "$artifactDownloadUrl"
 
 Made a couple screenshots to proof, that the module was done.
 ```
+
+### Used Projects:
+
+Java-Gradle-App:
+
+https://gitlab.com/twn-devops-bootcamp/latest/06-nexus/java-app
+
+Node App:
+
+git@gitlab.com:twn-devops-bootcamp/latest/04-build-tools/node-app.git
